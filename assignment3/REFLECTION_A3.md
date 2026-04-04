@@ -19,3 +19,4 @@ I used AI as a learning tool to help understand how to structure the ETL pipelin
 
 ## What I Learned
 Through this assignment, I gained a better understanding of file handling in Java, data transformation techniques, and how to build structured and reliable programs. I also learned how to use AI responsibly as a support tool rather than relying on it blindly.
+Minor update for commit test.
